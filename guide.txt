@@ -1,0 +1,2 @@
+git contribution guide blog link 
+https://chanhuiseok.github.io/posts/git-3/
